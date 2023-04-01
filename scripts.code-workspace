@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "scripts"
+		}
+	],
+	"settings": {
+		"editor.inlayHints.enabled": "offUnlessPressed"
+	}
+}
