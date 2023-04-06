@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "console04"
+		}
+	],
+	"settings": {
+		"editor.inlayHints.enabled": "offUnlessPressed"
+	}
+}
