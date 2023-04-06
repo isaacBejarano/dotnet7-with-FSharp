@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\03_CODE\\Backend\\F_Sharp\\console04\\console04.fsproj": {}
+    "D:\\03_CODE\\Backend\\F_Sharp\\console04_flow_control\\console04.fsproj": {}
   },
   "projects": {
-    "D:\\03_CODE\\Backend\\F_Sharp\\console04\\console04.fsproj": {
+    "D:\\03_CODE\\Backend\\F_Sharp\\console04_flow_control\\console04.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\03_CODE\\Backend\\F_Sharp\\console04\\console04.fsproj",
+        "projectUniqueName": "D:\\03_CODE\\Backend\\F_Sharp\\console04_flow_control\\console04.fsproj",
         "projectName": "console04",
-        "projectPath": "D:\\03_CODE\\Backend\\F_Sharp\\console04\\console04.fsproj",
+        "projectPath": "D:\\03_CODE\\Backend\\F_Sharp\\console04_flow_control\\console04.fsproj",
         "packagesPath": "C:\\Users\\ISK\\.nuget\\packages\\",
-        "outputPath": "D:\\03_CODE\\Backend\\F_Sharp\\console04\\obj\\",
+        "outputPath": "D:\\03_CODE\\Backend\\F_Sharp\\console04_flow_control\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ISK\\AppData\\Roaming\\NuGet\\NuGet.Config",
